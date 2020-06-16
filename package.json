@@ -1,5 +1,5 @@
 {
-  "name": "react_native_counter",
+  "name": "react-native-counter-stepper",
   "version": "0.0.1",
   "description": "This is a simple light weight react native counter component",
   "main": "Counter/Counter.js",
@@ -30,13 +30,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eazybee/react_native_counter.git"
+    "url": "git+https://github.com/Eazybee/react-native-counter-stepper.git"
   },
   "keywords": ["react-native","counter","stepper","mobile","android","ios"],
   "author": "Ilori Ezekiel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Eazybee/react_native_counter/issues"
+    "url": "https://github.com/Eazybee/react-native-counter-stepper/issues"
   },
-  "homepage": "https://github.com/Eazybee/react_native_counter#readme"
+  "homepage": "https://github.com/Eazybee/react-native-counter-stepper#readme"
 }

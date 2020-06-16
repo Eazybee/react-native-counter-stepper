@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>react_native_counter</h1>
+  <h1>react-native-counter-stepper</h1>
   <img
-    alt="Gif displaying an example of react_native_counter on ios and android device"
+    alt="Gif displaying an example of react-native-counter-stepper on ios and android device"
     src="https://media.giphy.com/media/S6wWlSRU5b44Fu7GX1/giphy.gif"
   />
 
@@ -16,16 +16,16 @@
 This module is distributed via <a href='https://www.npmjs.com/'>npm</a>
 
 ```bash
-npm install react_native_counter
+npm install react-native-counter-stepper
 ```
 ```bash
-yarn add react_native_counter
+yarn add react-native-counter-stepper
 ```
 
 ## Usage
 ##### Import
 ```javascript
-import Counter from 'react_native_counter';
+import Counter from 'react-native-counter-stepper';
 ```
 
 ```javascript
@@ -34,7 +34,7 @@ return(
     <Counter value={state} onValueChange={(val) => setState(val)} />
 )
 ```
-[OtherExamples]()
+[OtherExamples](https://github.com/Eazybee/react-native-counter-stepper/blob/update-readme-doc/App.js)
 
 
 ## Props
@@ -150,4 +150,4 @@ Thanks goes to these people <a href='https://allcontributors.org/docs/en/emoji-k
 </table>
 
 ## LICENSE
-- [MIT](https://github.com/Eazybee/useFormBee/blob/develop/LICENSE)
+- [MIT](https://github.com/Eazybee/react-native-counter-stepper/blob/develop/LICENSE)
